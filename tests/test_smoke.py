@@ -106,6 +106,7 @@ EXPECTED_TOOLS = [
     # Task decomposition
     "get_task_result", "wait_for_task",
     "generate_evolution_stats",
+    "budget_report",
     # VLM / Vision
     "analyze_screenshot", "vlm_query",
     # Message routing
